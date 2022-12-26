@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+
+h2{
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom:30px;
+    margin-left:10px;
+    border-left:4px solid red;
+    background-color:rgb(234, 233, 233);
+    width:520px;
+    padding-left:10px;
+}
+
+.inputform{
+    margin: 0 auto;
+    margin-left:10px;
+    width:500px;
+    background-color:whitesmoke;
+    border: 2px solid rgb(234, 233, 233);
+    padding-left:25px;
+    padding-top:10px;
+    border-radius: 10px; 
+}
+    div{
+        margin-top:10px;
+        margin-bottom:20px;
+    }
+
+
